@@ -12,6 +12,10 @@
 
 - Finalmente, para poder realizar nuevamente el test es necesario cerrar y ejecutar nuevamente el programa.
 
+- El programa se ejecuta desde TaxonControlador.java
+
+
+
 Ante cualquier duda, contactar a los siguientes correos de los participantes:
 - e.villacuraarancibia@uandresbello.edu
 - c.barraotto@uandresbello.edu
